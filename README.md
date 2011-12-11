@@ -6,7 +6,8 @@ Particularly useful after you've ripped your music off an iPod.
 
 ## dependencies
 
-  - [id3Reader](http://nedbatchelder.com/code/modules/id3reader.html)
+  - [id3Reader](http://nedbatchelder.com/code/modules/id3reader.html), included
+    for posterity
 
 ## usage
 
