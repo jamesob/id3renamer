@@ -1,6 +1,8 @@
 # id3renamer
 by jamesob
 
+## don't pay money for a gui
+
 Tool for renaming all the MP3s in or below a directory based on ID3 tags.
 Particularly useful after you've ripped your music off an iPod.
 
