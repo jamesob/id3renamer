@@ -1,7 +1,9 @@
 # id3renamer
 by jamesob
 
-## don't pay money for a gui
+dedicated to andy kirby. I owe that guy an email.
+
+## don't pay money for a platform-specific gui
 
 Tool for renaming all the MP3s in or below a directory based on ID3 tags.
 Particularly useful after you've ripped your music off an iPod.
